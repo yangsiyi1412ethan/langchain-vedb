@@ -1,7 +1,7 @@
 from typing import Generator
 
 import pytest
-from langchain_vedb_link.vectorstores import VeDB
+from langchain_vedb.vectorstores import VeDB
 from langchain_core.vectorstores import VectorStore
 from langchain_tests.integration_tests import VectorStoreIntegrationTests
 

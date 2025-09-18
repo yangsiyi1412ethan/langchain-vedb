@@ -89,8 +89,6 @@ The vectorstore supports a set of filters that can be applied against the metada
 | `$nin`     | Special Case (`not in`)            |
 | `$between` | Special Case (`between`)           |
 | `$exists`  | Exists (`IS [NOT] NULL`)           |
-| `$like`    | Text (`like`)                      |
-| `$ilike`   | Text (case-insensitive `like`)     |
 | `$and`     | Logical (`and`)                    |
 | `$or`      | Logical (`or`)                     |
 

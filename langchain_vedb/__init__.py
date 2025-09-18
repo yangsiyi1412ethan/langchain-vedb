@@ -1,6 +1,6 @@
 from importlib import metadata
 
-from langchain_vedb_link.vectorstores import VeDB
+from langchain_vedb.vectorstores import VeDB
 
 try:
     __version__ = metadata.version(__package__)
